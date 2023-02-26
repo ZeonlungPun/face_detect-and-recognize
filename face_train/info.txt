@@ -1,0 +1,15 @@
+E:\opencv\face_train\images\chu\tracy73.jpg;0
+E:\opencv\face_train\images\chu\tracy75.jpg;0
+E:\opencv\face_train\images\chu\tracy76.jpg;0
+E:\opencv\face_train\images\chu\tracy84.jpg;0
+E:\opencv\face_train\images\chu\tracyChu.jpg;0
+E:\opencv\face_train\images\liu\Liu.jpg;1
+E:\opencv\face_train\images\liu\liu1.jpg;1
+E:\opencv\face_train\images\liu\liu2.jpg;1
+E:\opencv\face_train\images\liu\liu3.jpg;1
+E:\opencv\face_train\images\liu\liu4.jpg;1
+E:\opencv\face_train\images\shan\shan.jpg;2
+E:\opencv\face_train\images\shan\shan3.jpg;2
+E:\opencv\face_train\images\shan\shan2.jpeg;2
+E:\opencv\face_train\images\shan\shan4.jfif;2
+E:\opencv\face_train\images\shan\shan24.jpg;2
